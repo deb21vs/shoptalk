@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+.vscode/
+
+data/
+index/
+models/
+*.parquet
+*.csv.gz
+*.json.gz
+*.tar
+*.zip
